@@ -5,7 +5,7 @@ class Cat {
     this.name = name 
   }
   
-  function speak(name) { 
+  speak() { 
     console.log(`${name} says meow!`)
   } 
 } 
