@@ -20,4 +20,16 @@ class Dog {
   }
 } 
 
-class Bird {} 
+class Bird {
+  constructor(name, gender) 
+  this.name = name 
+  this.gender = gender 
+} 
+
+  speak() { 
+    if this.gender = "male" 
+    return ` It's me! ${this.name}, the parrot!`
+    else 
+    return ` ${this.name} says squawk!`
+  } 
+} 
