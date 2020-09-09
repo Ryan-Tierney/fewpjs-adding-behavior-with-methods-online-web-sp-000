@@ -21,7 +21,7 @@ class Dog {
 } 
 
 class Bird {
-  constructor(name, gender) 
+  constructor(name, gender) {
   this.name = name 
   this.gender = gender 
 } 
