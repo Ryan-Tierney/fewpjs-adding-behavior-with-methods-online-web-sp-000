@@ -30,7 +30,8 @@ class Bird {
     if  (this.gender = "male") { 
     return ` It's me! ${this.name}, the parrot!` 
     } 
-    else 
+    else {
     return ` ${this.name} says squawk!`
+    }
   } 
 } 
